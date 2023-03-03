@@ -1,3 +1,5 @@
-# SD.2022.breno-marcus
-A simple repository for academic use.
-Source code from "Sistemas Distribuidos - 2022.2"
+# ExemploRabbitMQ
+
+Como gerar jar usando maven:
+    
+mvn clean compile assembly:single
